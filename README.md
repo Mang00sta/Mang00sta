@@ -1,4 +1,3 @@
-The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
 
 
 
@@ -12,7 +11,8 @@ The background color should be `#ffffff` for light mode and `#0d1117` for dark m
 <p align="center"><img width="720" height="300" src="http://www.globalityconsulting.com/blog/wp-content/uploads/2015/02/Software-Testing.jpg"></p>
 
 ### About me
-Привет! Меня зовут Вальдемар. 20 лет я работаю в ИТ, в разных ипостасях. Опыт работы широкий: от системного администрирования серверной инфраструктуры до внедрения ПО на крупных предприятиях. И вот я решил немного повернуть направление и уйти в QA. Возникает вопрос - почему? Ответ сложен и долог, при встрече расскажу.  
+   
+  Привет! Меня зовут Вальдемар. 20 лет я работаю в ИТ, в разных ипостасях. Опыт работы широкий: от системного администрирования серверной инфраструктуры до внедрения ПО на крупных предприятиях. И вот я решил немного повернуть направление и уйти в QA. Возникает вопрос - почему? Ответ сложен и долог, при встрече расскажу.  
 
    Здесь Вы можете увидет мои работы при прохождении обучения.   
 
@@ -25,11 +25,22 @@ The background color should be `#ffffff` for light mode and `#0d1117` for dark m
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/vladimir-vishnyakov-6b8734243/)
 
 
+<br />
 
 [![Mangoosta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mang00sta&show_icons=true&theme=tokyonight)
 
 
 <!--
+Помощь 
+https://the-unl.com/kak-oformit-profil-na-github-s-pomoshchyu-github-profile-readme-21
+
+
+Иконки
+https://icons8.com/icons/set/windows-server
+
+Шильдики
+https://shields.io/category/platform-support
+
 
 ![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-090909?style=for-the-badge&logo=VisualStudio&logoColor=F8C52C)
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=.NET&logoColor=097CDB)
